@@ -29,4 +29,4 @@ Other 5015's  should work depending on your requrements
 
 #### Hardware	
 - 4x M3 Heat Set Nut		[Amazon](https://www.amazon.com/iplusmile-Embedment-Threaded-Printing-Projects/dp/B087NBYF65/ref=sr_1_5?dchild=1&keywords=3mm+melt+in+nut&qid=1626198542&sr=8-5) Qty as necessary.  
-- 4x M3x8 BHCS		[Amazon](https://www.amazon.com/M3-0-50-Stainless-Button-Socket-Screws/dp/B077WZ1XK2/ref=sr_1_2?dchild=1&keywords=m3x8+bhcs&qid=1626198711&sr=8-2) [Amazon alternate](https://www.amazon.com/M3-0-5X-Available-Stainless-Machine-Fastener/dp/B081JQL9GF/ref=sr_1_7?dchild=1&keywords=m3x8+bhcs&qid=1626198890&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sr=8-7)
+- 4x M3x8 BHCS		[Amazon](https://www.amazon.com/M3-0-50-Stainless-Button-Socket-Screws/dp/B077WZ1XK2/ref=sr_1_2?dchild=1&keywords=m3x8+bhcs&qid=1626198711&sr=8-2) - [Amazon alternate](https://www.amazon.com/M3-0-5X-Available-Stainless-Machine-Fastener/dp/B081JQL9GF/ref=sr_1_7?dchild=1&keywords=m3x8+bhcs&qid=1626198890&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sr=8-7)
