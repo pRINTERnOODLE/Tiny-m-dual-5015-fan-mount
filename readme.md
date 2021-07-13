@@ -5,6 +5,7 @@
 
 Design prompts for this mod are: 
 - To provide dual 5015 cooling capacity while maintaining full travel in X and Y axis without incurring a large weight penalty. 
+
 Additional design parameters include: 
 - Keep fans and any additional weight centered on the x axis to avoid torque induced oscillations around the print head (no fang designs allowed). 
 - NOT affect overall design beyond fan mounting and location and keep modified parts and BOM of this mod to a minimum.
