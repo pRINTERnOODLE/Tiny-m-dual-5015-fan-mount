@@ -20,7 +20,7 @@ Typically no brim is required for the printed parts...depends on your setup.
 
 #### BOM (US Sources)
 ##### Fans	
--2x Blower Fan 24V 5015 Dual Ball Bearing	High Speed[Amazon](https://www.amazon.com/WINSINN-Bearing-50x50x15mm-Extruder-Makerbot/dp/B07DB7DLMM/ref=sr_1_4?crid=3LCWO4ONS5G9I&dchild=1&keywords=5015+blower+fan+24v&qid=1626198168&sprefix=5015%2Caps%2C202&sr=8-4)
+- 2x Blower Fan 24V 5015 Dual Ball Bearing	High Speed[Amazon](https://www.amazon.com/WINSINN-Bearing-50x50x15mm-Extruder-Makerbot/dp/B07DB7DLMM/ref=sr_1_4?crid=3LCWO4ONS5G9I&dchild=1&keywords=5015+blower+fan+24v&qid=1626198168&sprefix=5015%2Caps%2C202&sr=8-4)
 
 OR
 - 2x Blower Fan 12V 5015 Dual Ball Bearing	High Speed[Amazon](https://www.amazon.com/WINSINN-Bearing-50x50x15mm-Extruder-Makerbot/dp/B07DB6132Q/ref=sr_1_4?crid=3LCWO4ONS5G9I&dchild=1&keywords=5015%2Bblower%2Bfan%2B24v&qid=1626198168&sprefix=5015%2Caps%2C202&sr=8-4&th=1)
